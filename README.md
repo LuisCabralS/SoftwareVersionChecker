@@ -12,3 +12,8 @@ Key features:
 -Generates a consolidated report with the results from each PC.
 
 -Useful for audits, updates, or security compliance.
+
+⚙️ Requisitos
+- Windows/Linux/Mac (indicar el sistema donde corre).  
+- Lenguaje: Python 3.x / Batch.  
+- Permisos de administrador o acceso a la red (si aplica).  
