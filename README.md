@@ -6,6 +6,9 @@ Its purpose is to simplify software inventory and assist IT administrators in au
 Key features:
 
 -Searches for the version of a program specified by the user.
+
 -Runs checks remotely on a batch of computers.
+
 -Generates a consolidated report with the results from each PC.
+
 -Useful for audits, updates, or security compliance.
