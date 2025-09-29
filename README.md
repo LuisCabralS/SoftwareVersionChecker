@@ -13,7 +13,11 @@ Key features:
 
 -Useful for audits, updates, or security compliance.
 
-⚙️ Requisitos
-- Windows/Linux/Mac (indicar el sistema donde corre).  
-- Lenguaje: Python 3.x / Batch.  
-- Permisos de administrador o acceso a la red (si aplica).  
+
+⚙️ Requirements
+
+Windows/Linux/Mac (specify the system where it runs).
+
+Language: Python 3.x / Batch.
+
+Administrator privileges or network access (if applicable).
